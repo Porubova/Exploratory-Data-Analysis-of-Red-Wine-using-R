@@ -30,4 +30,4 @@ The final report follows the structure:
 -  Analysis sections
 -  Final Plots section
 -  Reflection section. 
-The project can be viewed [here](http://htmlpreview.github.io/?https://github.com/Porubova/Exploratory-Data-Analysis-of-Red-Wine-using-R@master/RedWineExplorationWithR.html).
+The project can be viewed [here](http://htmlpreview.github.io/?https://github.com/Porubova/Exploratory-Data-Analysis-of-Red-Wine-using-R/master/RedWineExplorationWithR.html).
