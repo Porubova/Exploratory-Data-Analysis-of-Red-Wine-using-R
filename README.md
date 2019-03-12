@@ -14,9 +14,9 @@ Citation Request:
   Modeling wine preferences by data mining from physicochemical properties.
   In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
 
-  Available at: [@Elsevier] http://dx.doi.org/10.1016/j.dss.2009.05.016
-                [Pre-press (pdf)] http://www3.dsi.uminho.pt/pcortez/winequality09.pdf
-                [bib] http://www3.dsi.uminho.pt/pcortez/dss09.bib
+  Available at: [@Elsevier] (http://dx.doi.org/10.1016/j.dss.2009.05.016)
+                [Pre-press (pdf)] (http://www3.dsi.uminho.pt/pcortez/winequality09.pdf)
+                [bib] (http://www3.dsi.uminho.pt/pcortez/dss09.bib)
 
 ## Files
 1. The RMD file containing the analysis (final plots and summary, and reflection)
@@ -30,4 +30,4 @@ The final report follows the structure:
 -  Analysis sections
 -  Final Plots section
 -  Reflection section. 
-The project can be viewed here. 
+The project can be viewed [here](https://cdn.jsdelivr.net/gh/Porubova/Exploratory-Data-Analysis-of-Red-Wine-using-R@master/RedWineExplorationWithR.html).
