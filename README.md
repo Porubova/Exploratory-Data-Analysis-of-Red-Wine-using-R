@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-or-Red-Wine-using-R
+# Exploratory-Data-Analysis-of-Red-Wine-using-R
 Application of EDA techniques to explore relationships between different variable using R.
 
 In this project, I  applied exploratory data analysis techniques in a selected dataset to discover relationships among multiple variables, and create explanatory visualizations illuminating distributions, outliers, and anomalies.
